@@ -1,3 +1,3 @@
 # lab1
-* [program for testing]
+* program for testing
 * 
